@@ -10,7 +10,7 @@ public class Collection {
  */
 	public static void main(String[] args) {
 		int arr[] = new int[] { 1, 2, 3, 4 };
-		Vector<integer> v = new Vector();
+		Vector<Integer> v = new Vector();
 		Hashtable<Integer, String> h = new Hashtable();
 		
 		v.addElement(1);
