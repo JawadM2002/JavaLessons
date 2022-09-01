@@ -1,6 +1,6 @@
 package lesson1BasicsandDataTypes;
 
-public class Operators {
+public class Operators { // Assignment Operators
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
