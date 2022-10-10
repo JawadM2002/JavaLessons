@@ -1,12 +1,12 @@
 package lesson5OOPConceptsPart2;
-/*
-class one { // class A
+
+class object{ // class A
 	public void print_it() {
 		System.out.println("This is ");
 	}
 }
 
-class two extends one { // class B
+class objects extends object { // class B
 	public void print_that() {
 		System.out.println("Single Inheritance.");
 	}
@@ -14,7 +14,7 @@ class two extends one { // class B
 
 public class SingleInheritance {
 	public static void main(String[] args) {
-		two g = new two();  
+		objects g = new objects();  
 		g.print_it();
 		g.print_that();
 
